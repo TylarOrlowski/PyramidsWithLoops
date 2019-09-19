@@ -1,6 +1,6 @@
 //Tylar Orlowski
 //orlowstt@mail.uc.edu
-//Assignment 04
+//Assignment 04 
 //Due Date: September 26th
 //Description: Building a pyramid 
 //Course: Application Dev w/Java
